@@ -1,6 +1,14 @@
 How to Download Dell Drivers and Updates from Dell.com
 ======================================================
 
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://quickencomdownload.wordpress.com/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Dell drivers and downloads
+        </a>
+    </div>
+
 Dell Drivers and Downloads help keep your Dell laptop or desktop running smoothly by updating essential system software. From audio and graphics to Wi-Fi and BIOS, the right drivers improve performance, fix bugs, and enhance security. You can easily access and install updates from the official Dell support page. Regular updates ensure your device stays fast, stable, and fully compatible with Windows.
 
 Why You Might Need to Download or Reinstall Dell Drivers
