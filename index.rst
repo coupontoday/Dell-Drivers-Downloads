@@ -27,9 +27,9 @@ Step-by-Step Guide to Download Dell Drivers
 --------------------------------------------
 1. **Visit Dell’s Official Support Page**
 
-  -To get started, go to the official Dell support website: `https://www.dell.com/support`   
+* To get started, go to the official Dell support website: `https://www.dell.com/support`   
 
-   -This is the only safe and verified place for downloading your drivers.
+* This is the only safe and verified place for downloading your drivers.
 
 2. **Identify Your Device**
 
